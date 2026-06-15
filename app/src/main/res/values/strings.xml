@@ -1,10 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BatteryMonitor</string><string name="notification_channel_name">Battery Monitor</string>
-<string name="notification_title">Battery Monitor</string>
-<string name="notification_text">Monitorando bateria</string>
+    <string name="app_name">BatteryMonitor</string>
 
-<string name="battery_level">Nível da bateria</string>
-<string name="start_monitor">Iniciar monitoramento</string>
-<string name="stop_monitor">Parar monitoramento</string>
-
+    <!-- Strings da tela principal -->
+    <string name="battery_level">Battery Level</string>
+    <string name="start_monitor">Start Monitoring</string>
+    <string name="stop_monitor">Stop Monitoring</string>
 </resources>
